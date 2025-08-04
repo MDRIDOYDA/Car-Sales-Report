@@ -9,7 +9,7 @@ To Create a interactive Power BI dashboard that analyzes car sales data across m
 * Filter and drill down into key metrics based on dealer, color, and company
 * Support strategic decision-making in marketing, inventory, and sales operations
 
-##Dashboard Highlights:
+## Dashboard Highlights:
 
 * Total Annual Income: $19.86B
 * Average Income per Sale: $831K

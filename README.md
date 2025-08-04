@@ -1,8 +1,7 @@
 # Car-Sales-Report ( Interactive Dashboard Creation Using Power BI)
 ## 🎯 Project Objective:
 
-To Create a interactive Power BI dashboard that analyzes car sales data across multiple dimensions—such as company, model, gender, and time—enabling stakeholders to:
-
+To Create a interactive Power BI dashboard that analyzes car sales data across multiple dimensions such as company, model, gender, and time will be enabling company  to:
 * Understand total and average annual income performance
 * Identify top-performing car brands and models
 * Discover trends in sales over time (monthly and yearly)

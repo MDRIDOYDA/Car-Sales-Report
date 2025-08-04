@@ -25,4 +25,8 @@ To Create a interactive Power BI dashboard that analyzes car sales data across m
 ## 📂 Data Set:
 <a href="https://github.com/MDRIDOYDA/Car-Sales-Report/blob/main/car%20sales.xlsx">Car Sales Data </a>
 
+## 📈 Dashboard :
+<img width="1293" height="731" alt="7777" src="https://github.com/user-attachments/assets/5413e062-0671-4bd8-82e1-88033697eeff" />
+
+
 

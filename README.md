@@ -11,8 +11,8 @@ To Create a interactive Power BI dashboard that analyzes car sales data across m
 
 ## 📊Dashboard Highlights:
 
-*Total and average income
-*Monthly sales trend analysis
-*Top-performing brands and models
-*Income breakdown by gender
-*Interactive filters: Dealer, Color, Company, Gender
+* Total and average income
+* Monthly sales trend analysis
+* Top-performing brands and models
+* Income breakdown by gender
+* Interactive filters: Dealer, Color, Company, Gender

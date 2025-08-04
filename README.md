@@ -9,10 +9,17 @@ To Create a interactive Power BI dashboard that analyzes car sales data across m
 * Filter and drill down into key metrics based on dealer, color, and company
 * Support strategic decision-making in marketing, inventory, and sales operations
 
-## 📊Dashboard Highlights:
+## 📊 Dashboard Highlights:
 
 * Total and average income
 * Monthly sales trend analysis
 * Top-performing brands and models
 * Income breakdown by gender
 * Interactive filters: Dealer, Color, Company, Gender
+
+## 🛠 Tools & Technologies
+Power BI
+
+DAX (if used)
+
+Excel or CSV (data source)

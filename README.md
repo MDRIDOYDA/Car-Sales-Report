@@ -18,8 +18,6 @@ To Create a interactive Power BI dashboard that analyzes car sales data across m
 * Interactive filters: Dealer, Color, Company, Gender
 
 ## 🛠 Tools & Technologies
-Power BI
+Power BI, DAX,  Excel
 
-DAX (if used)
 
-Excel or CSV (data source)

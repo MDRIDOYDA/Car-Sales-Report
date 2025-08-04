@@ -9,7 +9,7 @@ To Create a interactive Power BI dashboard that analyzes car sales data across m
 * Filter and drill down into key metrics based on dealer, color, and company
 * Support strategic decision-making in marketing, inventory, and sales operations
 
-## Dashboard Highlights:
+## 📊Dashboard Highlights:
 
 * Total Annual Income: $19.86B
 * Average Income per Sale: $831K
@@ -19,5 +19,3 @@ To Create a interactive Power BI dashboard that analyzes car sales data across m
 * Trend Analysis: Strong income growth observed across 2022–2023
 * Top-Selling Models: LS400, Jetta, Silhouette, Montero, and more
 * Filters Enabled: Dealer, Gender, Color, Company
-
- The dashboard combines bar charts, pie charts, line graphs, and dynamic filters for a comprehensive analysis experience.

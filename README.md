@@ -28,5 +28,16 @@ To Create a interactive Power BI dashboard that analyzes car sales data across m
 ## 📈 Dashboard :
 <img width="1293" height="731" alt="7777" src="https://github.com/user-attachments/assets/5413e062-0671-4bd8-82e1-88033697eeff" />
 
+## 🧠 Insights:
+
+✅ Total Annual Income: $19.86B
+✅ Average Income per Sale: $831K
+✅ Customer Base: 24K+
+✅ Top Performing Companies: Chevrolet, Dodge, and Ford
+✅ Gender Insights: Male customers contribute ~82% of income
+✅ Trend Analysis: Strong income growth observed across 2022–2023
+✅ Top-Selling Models: LS400, Jetta, Silhouette, Montero, and more
+
+
 
 
